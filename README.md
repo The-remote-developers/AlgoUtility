@@ -1,5 +1,5 @@
 # AlgoUtility
-A useful C ++ library made by me
+A useful C ++ library
 
 ## Docs
 
